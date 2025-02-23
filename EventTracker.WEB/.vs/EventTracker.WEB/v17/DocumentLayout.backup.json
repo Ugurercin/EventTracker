@@ -3,30 +3,12 @@
   "WorkspaceRootPath": "D:\\Repositories\\EventTracker_001\\EventTracker.WEB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0230E670-85EA-417D-8D8A-F880B9E6DD0C}|..\\EventTracker.Kafka\\EventTracker.Kafka.csproj|d:\\repositories\\eventtracker_001\\eventtracker.kafka\\extensions\\eventtrackerserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E73CF9C-1E68-4AF6-ABA5-287BF96AFC12}|EventTracker.WEB.csproj|d:\\repositories\\eventtracker_001\\eventtracker.web\\eventproducer\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E73CF9C-1E68-4AF6-ABA5-287BF96AFC12}|EventTracker.WEB.csproj|solutionrelative:eventproducer\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0230E670-85EA-417D-8D8A-F880B9E6DD0C}|..\\EventTracker.Kafka\\EventTracker.Kafka.csproj|d:\\repositories\\eventtracker_001\\eventtracker.kafka\\consumer\\kafkaconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0230E670-85EA-417D-8D8A-F880B9E6DD0C}|..\\EventTracker.Kafka\\EventTracker.Kafka.csproj|d:\\repositories\\eventtracker_001\\eventtracker.kafka\\producer\\kafkaproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0230E670-85EA-417D-8D8A-F880B9E6DD0C}|..\\EventTracker.Kafka\\EventTracker.Kafka.csproj|d:\\repositories\\eventtracker_001\\eventtracker.kafka\\producer\\kafkaproducerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0230E670-85EA-417D-8D8A-F880B9E6DD0C}|..\\EventTracker.Kafka\\EventTracker.Kafka.csproj|d:\\repositories\\eventtracker_001\\eventtracker.kafka\\consumer\\consumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E73CF9C-1E68-4AF6-ABA5-287BF96AFC12}|EventTracker.WEB.csproj|d:\\repositories\\eventtracker_001\\eventtracker.web\\eventtracker.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7E73CF9C-1E68-4AF6-ABA5-287BF96AFC12}|EventTracker.WEB.csproj|solutionrelative:eventtracker.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E73CF9C-1E68-4AF6-ABA5-287BF96AFC12}|EventTracker.WEB.csproj|d:\\repositories\\eventtracker_001\\eventtracker.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7E73CF9C-1E68-4AF6-ABA5-287BF96AFC12}|EventTracker.WEB.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{7E73CF9C-1E68-4AF6-ABA5-287BF96AFC12}|EventTracker.WEB.csproj|d:\\repositories\\eventtracker_001\\eventtracker.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E73CF9C-1E68-4AF6-ABA5-287BF96AFC12}|EventTracker.WEB.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,108 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "KafkaProducer.cs",
-              "DocumentMoniker": "D:\\Repositories\\EventTracker_001\\EventTracker.Kafka\\Producer\\KafkaProducer.cs",
-              "RelativeDocumentMoniker": "..\\EventTracker.Kafka\\Producer\\KafkaProducer.cs",
-              "ToolTip": "D:\\Repositories\\EventTracker_001\\EventTracker.Kafka\\Producer\\KafkaProducer.cs",
-              "RelativeToolTip": "..\\EventTracker.Kafka\\Producer\\KafkaProducer.cs",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\Repositories\\EventTracker_001\\EventTracker.WEB\\EventProducer\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "EventProducer\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\Repositories\\EventTracker_001\\EventTracker.WEB\\EventProducer\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "EventProducer\\Controllers\\OrderController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T12:40:55.384Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "KafkaProducerConfig.cs",
-              "DocumentMoniker": "D:\\Repositories\\EventTracker_001\\EventTracker.Kafka\\Producer\\KafkaProducerConfig.cs",
-              "RelativeDocumentMoniker": "..\\EventTracker.Kafka\\Producer\\KafkaProducerConfig.cs",
-              "ToolTip": "D:\\Repositories\\EventTracker_001\\EventTracker.Kafka\\Producer\\KafkaProducerConfig.cs",
-              "RelativeToolTip": "..\\EventTracker.Kafka\\Producer\\KafkaProducerConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T12:40:54.392Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Microsoft.Common.CurrentVersion.targets",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ViewState": "AgIAAGUIAAAAAAAAAAAvwH4IAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-02-23T12:21:50.744Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ConsumerService.cs",
-              "DocumentMoniker": "D:\\Repositories\\EventTracker_001\\EventTracker.Kafka\\Consumer\\ConsumerService.cs",
-              "RelativeDocumentMoniker": "..\\EventTracker.Kafka\\Consumer\\ConsumerService.cs",
-              "ToolTip": "D:\\Repositories\\EventTracker_001\\EventTracker.Kafka\\Consumer\\ConsumerService.cs",
-              "RelativeToolTip": "..\\EventTracker.Kafka\\Consumer\\ConsumerService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T12:20:46.774Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Repositories\\EventTracker_001\\EventTracker.WEB\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\Repositories\\EventTracker_001\\EventTracker.WEB\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-23T12:18:16.723Z",
+              "WhenOpened": "2025-02-23T12:43:02.993Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "KafkaConsumer.cs",
-              "DocumentMoniker": "D:\\Repositories\\EventTracker_001\\EventTracker.Kafka\\Consumer\\KafkaConsumer.cs",
-              "RelativeDocumentMoniker": "..\\EventTracker.Kafka\\Consumer\\KafkaConsumer.cs",
-              "ToolTip": "D:\\Repositories\\EventTracker_001\\EventTracker.Kafka\\Consumer\\KafkaConsumer.cs",
-              "RelativeToolTip": "..\\EventTracker.Kafka\\Consumer\\KafkaConsumer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAPAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Repositories\\EventTracker_001\\EventTracker.WEB\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Repositories\\EventTracker_001\\EventTracker.WEB\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T09:42:04.373Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EventTrackerServiceRegistration.cs",
-              "DocumentMoniker": "D:\\Repositories\\EventTracker_001\\EventTracker.Kafka\\Extensions\\EventTrackerServiceRegistration.cs",
-              "RelativeDocumentMoniker": "..\\EventTracker.Kafka\\Extensions\\EventTrackerServiceRegistration.cs",
-              "ToolTip": "D:\\Repositories\\EventTracker_001\\EventTracker.Kafka\\Extensions\\EventTrackerServiceRegistration.cs",
-              "RelativeToolTip": "..\\EventTracker.Kafka\\Extensions\\EventTrackerServiceRegistration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T12:13:29.129Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EventTracker.WEB",
-              "DocumentMoniker": "D:\\Repositories\\EventTracker_001\\EventTracker.WEB\\EventTracker.WEB.csproj",
-              "RelativeDocumentMoniker": "EventTracker.WEB.csproj",
-              "ToolTip": "D:\\Repositories\\EventTracker_001\\EventTracker.WEB\\EventTracker.WEB.csproj",
-              "RelativeToolTip": "EventTracker.WEB.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-23T12:39:48.079Z",
+              "WhenOpened": "2025-02-23T12:42:43.366Z",
               "EditorCaption": ""
             }
           ]

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Repositories\\EventTracker_001\\EventTracker.WEB\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7E73CF9C-1E68-4AF6-ABA5-287BF96AFC12}|EventTracker.WEB.csproj|d:\\repositories\\eventtracker_001\\eventtracker.web\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{7E73CF9C-1E68-4AF6-ABA5-287BF96AFC12}|EventTracker.WEB.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7E73CF9C-1E68-4AF6-ABA5-287BF96AFC12}|EventTracker.WEB.csproj|d:\\repositories\\eventtracker_001\\eventtracker.web\\eventproducer\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E73CF9C-1E68-4AF6-ABA5-287BF96AFC12}|EventTracker.WEB.csproj|solutionrelative:eventproducer\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "readme.md",
+              "DocumentMoniker": "D:\\Repositories\\EventTracker_001\\EventTracker.WEB\\readme.md",
+              "RelativeDocumentMoniker": "readme.md",
+              "ToolTip": "D:\\Repositories\\EventTracker_001\\EventTracker.WEB\\readme.md",
+              "RelativeToolTip": "readme.md",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAABAAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-02-23T12:48:11.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "OrderController.cs",
               "DocumentMoniker": "D:\\Repositories\\EventTracker_001\\EventTracker.WEB\\EventProducer\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "EventProducer\\Controllers\\OrderController.cs",
@@ -35,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Repositories\\EventTracker_001\\EventTracker.WEB\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -43,8 +60,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T12:42:43.366Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T12:42:43.366Z"
             }
           ]
         }
