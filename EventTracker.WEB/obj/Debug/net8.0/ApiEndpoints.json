@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "EventTracker.WEB.EventProducer.Controllers.OrderController",
+    "Method": "CreateOrder",
+    "RelativePath": "api/Order",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "EventTracker.WEB.EventProducer.Controllers.OrderController\u002BOrderRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

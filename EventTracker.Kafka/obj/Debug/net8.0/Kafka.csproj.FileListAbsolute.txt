@@ -1,0 +1,12 @@
+D:\Repositories\EventTracker_001\Kafka\bin\Debug\net8.0\Kafka.deps.json
+D:\Repositories\EventTracker_001\Kafka\bin\Debug\net8.0\Kafka.dll
+D:\Repositories\EventTracker_001\Kafka\bin\Debug\net8.0\Kafka.pdb
+D:\Repositories\EventTracker_001\Kafka\obj\Debug\net8.0\Kafka.csproj.AssemblyReference.cache
+D:\Repositories\EventTracker_001\Kafka\obj\Debug\net8.0\Kafka.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\EventTracker_001\Kafka\obj\Debug\net8.0\Kafka.AssemblyInfoInputs.cache
+D:\Repositories\EventTracker_001\Kafka\obj\Debug\net8.0\Kafka.AssemblyInfo.cs
+D:\Repositories\EventTracker_001\Kafka\obj\Debug\net8.0\Kafka.csproj.CoreCompileInputs.cache
+D:\Repositories\EventTracker_001\Kafka\obj\Debug\net8.0\Kafka.dll
+D:\Repositories\EventTracker_001\Kafka\obj\Debug\net8.0\refint\Kafka.dll
+D:\Repositories\EventTracker_001\Kafka\obj\Debug\net8.0\Kafka.pdb
+D:\Repositories\EventTracker_001\Kafka\obj\Debug\net8.0\ref\Kafka.dll

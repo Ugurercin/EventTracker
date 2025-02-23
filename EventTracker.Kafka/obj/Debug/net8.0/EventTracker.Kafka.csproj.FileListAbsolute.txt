@@ -1,0 +1,12 @@
+D:\Repositories\EventTracker_001\EventTracker.Kafka\bin\Debug\net8.0\EventTracker.Kafka.deps.json
+D:\Repositories\EventTracker_001\EventTracker.Kafka\bin\Debug\net8.0\EventTracker.Kafka.dll
+D:\Repositories\EventTracker_001\EventTracker.Kafka\bin\Debug\net8.0\EventTracker.Kafka.pdb
+D:\Repositories\EventTracker_001\EventTracker.Kafka\obj\Debug\net8.0\EventTracker.Kafka.csproj.AssemblyReference.cache
+D:\Repositories\EventTracker_001\EventTracker.Kafka\obj\Debug\net8.0\EventTracker.Kafka.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\EventTracker_001\EventTracker.Kafka\obj\Debug\net8.0\EventTracker.Kafka.AssemblyInfoInputs.cache
+D:\Repositories\EventTracker_001\EventTracker.Kafka\obj\Debug\net8.0\EventTracker.Kafka.AssemblyInfo.cs
+D:\Repositories\EventTracker_001\EventTracker.Kafka\obj\Debug\net8.0\EventTracker.Kafka.csproj.CoreCompileInputs.cache
+D:\Repositories\EventTracker_001\EventTracker.Kafka\obj\Debug\net8.0\EventTracker.Kafka.dll
+D:\Repositories\EventTracker_001\EventTracker.Kafka\obj\Debug\net8.0\refint\EventTracker.Kafka.dll
+D:\Repositories\EventTracker_001\EventTracker.Kafka\obj\Debug\net8.0\EventTracker.Kafka.pdb
+D:\Repositories\EventTracker_001\EventTracker.Kafka\obj\Debug\net8.0\ref\EventTracker.Kafka.dll

@@ -1,0 +1,62 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "EventTracker.WEB",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Order": {
+      "post": {
+        "tags": [
+          "Order"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/OrderRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/OrderRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/OrderRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "OrderRequest": {
+        "type": "object",
+        "properties": {
+          "orderId": {
+            "type": "string",
+            "nullable": true
+          },
+          "productName": {
+            "type": "string",
+            "nullable": true
+          },
+          "quantity": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

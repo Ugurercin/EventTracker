@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "lyjxPoJoQKQ=",
+  "success": true,
+  "projectFilePath": "D:\\Repositories\\EventTracker_001\\Kafka.Service\\Kafka.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ugur\\.nuget\\packages\\confluent.kafka\\2.8.0\\confluent.kafka.2.8.0.nupkg.sha512",
+    "C:\\Users\\Ugur\\.nuget\\packages\\librdkafka.redist\\2.8.0\\librdkafka.redist.2.8.0.nupkg.sha512",
+    "C:\\Users\\Ugur\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.2\\microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512",
+    "C:\\Users\\Ugur\\.nuget\\packages\\microsoft.extensions.options\\9.0.2\\microsoft.extensions.options.9.0.2.nupkg.sha512",
+    "C:\\Users\\Ugur\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.2\\microsoft.extensions.primitives.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
